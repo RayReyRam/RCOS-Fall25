@@ -1,2 +1,5 @@
 # RCOS-Fall25
-Working on RCOS lab assigments
+Raymond Reynoso Ramirez
+![Alt text](./Fall2025HeadShot.jpg)
+Graduating Spring 2027
+Im working on the YACS projects backend
